@@ -35,7 +35,7 @@ public class MainActivity extends Activity {
 	}
 	
 	private List<String> getTestData() {
-		String [] obj = new String[]{"背对背拥抱","第几个一百天","江南","那些你很冒险的梦","醉赤壁","西界","爱与希望","你要的不是我","不潮不用花钱","只对你有感觉","简简单单"};
+		String [] obj = new String[]{"背对背拥抱","第几个一百天","江南","那些你很冒险的梦","醉赤壁","西界","爱与希望","你要的不是我","不潮不用花钱","只对你有感觉","简简单单","喳喳"};
 		List<String> list = new ArrayList<String>(Arrays.asList(obj));
 		return list;
 	}
